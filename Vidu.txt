@@ -18,4 +18,5 @@ printf("%20s\n","-------");
 printf("%20ld\n",long(a)*b);
 getch();
 {abcde}
-}
+} 
+asasas
